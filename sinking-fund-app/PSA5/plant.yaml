@@ -1,0 +1,14 @@
+plantA:
+  name: rose
+  frequency_days: 2
+  next_due_date: 2025-7-1
+
+plantB:
+  name: carnacion
+  frequency_days: 4
+  next_due_date: 2025-7-2
+
+plantC:
+  name: sunflower 
+  frequency_days: 3
+  next_due_date: 2025-6-30
